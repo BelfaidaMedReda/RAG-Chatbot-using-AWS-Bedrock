@@ -10,15 +10,6 @@ Welcome to my RAG Chatbot project! 🎉 This project demonstrates how to build a
 - **Customizable Retrieval**: Switch between "Retrieval Only" mode for raw data references or full AI-generated responses.
 - **Scalable Storage**: Utilize Amazon S3 for storing and managing raw data seamlessly.
 
-## Visual Demos 📸
-
-Check out these screenshots showcasing the project in action:
-
-- ![Knowledge Base Setup](demo1.png)
-- ![S3 Bucket Configuration](demo2.png)
-- ![Chatbot Testing](demo3.png)
-- ![Sync Process](demo4.png)
-- ![File Upload Status](demo5.png)
 
 ## Technologies Used 🛠️
 
@@ -41,6 +32,17 @@ Check out these screenshots showcasing the project in action:
 - **S3 Bucket**: Stores raw documents (e.g., financial reports).
 - **Knowledge Base**: Manages embeddings and vector storage via OpenSearch.
 - **Chatbot Interface**: Integrates Bedrock AI models for response generation.
+
+## Visual Demos 📸
+
+Check out these screenshots showcasing the project in action:
+
+- ![File Upload Status](demos/demo4.png)
+- ![S3 Bucket Configuration](demos/demo2.png)
+- ![Knowledge Base Setup](demos/demo3.png)
+- ![Sync Process](demos/demo1.png)
+- ![Chatbot Testing](demos/demo5.png)
+
 
 ## Next Steps and Contributions 🌱
 
